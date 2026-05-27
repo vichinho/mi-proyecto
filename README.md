@@ -100,4 +100,4 @@ docker compose down -v
 - Agregar healthchecks.
 - Separar ambientes de desarrollo y producción.
 - Crear un pipeline de CI/CD con GitHub Actions.
-- Agregar pruebas automáticas.
+- Agregar pruebaas automáticas.
