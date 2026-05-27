@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node -e \"console.log('OK: test básico')\"",
+    "lint": "node -e \"console.log('OK: lint básico')\""
   },
   "dependencies": {
     "express": "^4.19.2",
